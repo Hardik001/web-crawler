@@ -1,0 +1,19 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-Hardik001:Hardik001/web-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
